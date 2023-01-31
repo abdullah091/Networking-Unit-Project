@@ -24,10 +24,10 @@ Logon Credentials : select Password | logon Username choose root| in logon passw
 Clich Next at buttom untill appear Create insance and click on it .
 
 6- Create ECS Instance inside (Public-Vswitch-B) with configuration and name it (Public-ECS): 
-Billing Method: Pay-as-you-go .
-Region : Zone B . 
+Billing Method: Pay-as-you-go .<br/>
+Region : Zone B . <br/>
 Instance Type : (General Purpose Type g6 ).
-Image : Public Image | ubuntu | 22.04 64bit 
+Image : Public Image | ubuntu | 22.04 64bit <br/>
 Clich Next at buttom 
 Network Type : Select Lab-VPC | (Public-Vswitch-B).
 Public IP Address :  check box Assign Public IPv4 Address.
