@@ -38,13 +38,13 @@ Clich Next at buttom untill appear Create insance and click on it .<br/>
 
 7- Connect to Private-ECS through VNC .
 
-8- After login to Private_ECS :
-     1-Enter: (ping google.com) command and take screnshot of output .
-     2-Enter: (ping "PRIVATE IP OF Public-ECS") command and take screnshot of output. 
+8- After login to Private_ECS :<br/>
+     -Enter: (ping google.com) command and take screnshot of output .<br/>
+     -Enter: (ping "PRIVATE IP OF Public-ECS") command and take screnshot of output. <br/>
  
- 9- Connect to Public-ECS through VNC :
-     1-Enter: (ping google.com) command and take screnshot of output .
-     2-Enter: (ping "PRIVATE IP OF Private-ECS") command and take screnshot of output. 
+ 9- Connect to Public-ECS through VNC : <br/>
+     -Enter: (ping google.com) command and take screnshot of output. <br/>
+     -Enter: (ping "PRIVATE IP OF Private-ECS") command and take screnshot of output. <br/>
      
 
 
