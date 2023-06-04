@@ -39,14 +39,16 @@ Clich Next at buttom untill appear Create insance and click on it .<br/>
 7- Connect to Private-ECS through VNC .
 
 8- After login to Private_ECS :<br/>
-     -Enter: (ping google.com) command and take screnshot of output .<br/>
+     -Enter: (ping alibabacloud.sa) command and take screnshot of output .<br/>
      -Enter: (ping "PRIVATE IP OF Public-ECS") command and take screnshot of output. <br/>
  
  9- Connect to Public-ECS through VNC : <br/>
-     -Enter: (ping google.com) command and take screnshot of output. <br/>
+     -Enter: (ping alibabacloud.sa) command and take screnshot of output. <br/>
      -Enter: (ping "PRIVATE IP OF Private-ECS") command and take screnshot of output. <br/>
      
-
+10- Create internet Nat Gateway to allow private instances to access internet : <br/>
+     -Enter: (ping alibabacloud.sa) command and take screnshot of output. <br/>
+     
 
 
 
