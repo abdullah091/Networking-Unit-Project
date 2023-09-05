@@ -8,7 +8,7 @@
 
 4-Create Security Group that has 2 rule and name it (SecGro) : <br/>
 rule 1 :allow| Protocol type (All ICMP IPv4) | Source (0.0.0.0/0). <br/>
-rule 2 : allow| Protocol type (Costume TCP) |Port range (SSH 22) | Source (0.0.0.0/0).<br/>
+rule 2 : allow| Protocol type (Custom TCP) |Port range (SSH 22) | Source (0.0.0.0/0).<br/>
 
 5- Create ECS Instance inside (Private-Vswitch-A) with configuration and name it (Private-ECS): <br/>
 Billing Method: Pay-as-you-go . <br/>
